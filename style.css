@@ -1,0 +1,26 @@
+.kemicofa-row .card > .card-image {
+  flex-basis: 25rem;
+  flex-shrink: 0;
+  overflow-y: hidden;
+  background-color: grey;
+  border-radius: 30px;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+#episode {
+  text-align: center;
+  font-style: italic;
+  text-rendering: auto;
+}
+#cardbody {
+  margin-top: 22px;
+  padding-top: 6px;
+  border-radius: 30px;
+}
+.card-img-top {
+  border-radius: 23px;
+  padding: 2px;
+}
